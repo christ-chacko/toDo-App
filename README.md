@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 React Native To-Do App
 
 A simple and responsive To-Do application built with React Native using Expo, Expo Router, Async Storage, Context API, and support for Light and Dark modes.
@@ -40,3 +41,4 @@ Run on device
 • Press a to open on Android
 • Press i to open on iOS (Mac only)
 • Press w to open in the web browser
+=======
