@@ -18,7 +18,7 @@ Installation
 
 Clone the repository
 
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/christ-chacko/toDo-App.git
 
 
 Navigate into the project directory
